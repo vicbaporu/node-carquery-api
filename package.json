@@ -29,7 +29,7 @@
     "node": "4.4.x"
   },
   "dependencies": {
-    "joi": "8.0.5",
+    "joi": "13.0.1",
     "request": "2.69.0"
   },
   "devDependencies": {
